@@ -1,6 +1,6 @@
 #!/bin/bash
 # ChoiceBot v1.1
-# Coded by: Dark Devil (Anson Benny)
+# Coded by: Cyber Attack
 
 trap 'printf "\n";stop;exit 1' 2
 
@@ -45,7 +45,7 @@ printf "\e[1;92m   ____ _           _          ____        _    \e[0m\n"
 printf "\e[1;92m  / ___| |__   ___ (_) ___ ___| __ )  ___ | |_  \e[0m\n"
 printf "\e[1;92m | |   | '_ \ / _ \| |/ __/ _ \  _ \ / _ \| __| \e[0m\n"
 printf "\e[1;92m | |___| | | | (_) | | (_|  __/ |_) | (_) | |_  \e[0m\n"
-printf "\e[1;92m  \____|_| |_|\___/|_|\___\___|____/ \___/ \__|DARK DEVIL \e[0mv1.1\n"
+printf "\e[1;92m  \____|_| |_|\___/|_|\___\___|____/ \___/ \__|CYBER ATTACK \e[0mv1.1\n"
 printf "\n"
 printf "\e[1;77m\e[45m     \e[0m\n"
 printf "\n"                                    
